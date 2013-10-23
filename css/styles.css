@@ -1,8 +1,12 @@
 /* Stylesheet */
 
+footer {
+	background-color: #663;
+	}
 
 
 /* Help Class to Show Grid */
 .showgrid {
 	background: url("../img/12-col-grid.gif") !important;
 }
+
