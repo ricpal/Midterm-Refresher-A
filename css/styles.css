@@ -1,8 +1,12 @@
 /* Stylesheet */
 
 footer {
-	background-color: #663body {
-		
+	background-color: #663body;
+	}
+	
+body {
+	background: url("../img/bg.png");
+	}		
 p {
 	font-family: 'Noto Sans', sans-serif;
 	}
